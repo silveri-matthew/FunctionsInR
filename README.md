@@ -77,11 +77,13 @@ Categorical
 <br />
 Subset of data set whose cultivar (Cult) of cabbage is c39:  <br/>
 <img src="https://imgur.com/gBIeQPw.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
 <img src="https://imgur.com/a5xRSOo.png" height="80%" width="80%" alt="Project walk-through"/>
 <br />
 <br />
 Subset of data set whose cultivar (Cult) of cabbage is c52: <br/>
 <img src="https://imgur.com/sA2FTDi.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
 <img src="https://imgur.com/RWnUzlL.png" height="80%" width="80%" alt="Project walk-through"/>
 <br />
 <br />
@@ -117,6 +119,7 @@ Alt: mean weight of c39 – c52 is not equal to zero
 <br />
 Reject the null. The mean weight of the c39 head is not equal to the mean weight of the c59 cabbage head.
 <br />
+<br />
 <p align="center">
 Type of VitC variable:  <br/>
 <img src="https://imgur.com/Deb2pbQ.png" height="80%" width="80%" alt="Project walk-through"/>
@@ -147,6 +150,7 @@ Categorical
 <p align="center">
 We want to check whether the ascorbic acids content (VitC) of cabbages for three different planting dates are different. State the null and alternative hypotheses and then perform one-way ANOVA. If necessary, perform Tukey’s Honestly Differences Test:  <br/>
 <img src="https://imgur.com/WnLwwPk.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
 <img src="https://imgur.com/pXUzSyN.png" height="80%" width="80%" alt="Project walk-through"/>
 <br />
 <p align="left">
@@ -154,7 +158,9 @@ Null: all equal
 Alt: at least one is not equal
 <br />
 <img src="https://imgur.com/nBgHeGC.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
 <img src="https://imgur.com/2YwoX2l.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
 <img src="https://imgur.com/lBpFmR8.png" height="80%" width="80%" alt="Project walk-through"/>
 <br />
 Reject the null as at least one is less than the significance level and both lwr and upr are positive or negative.
